@@ -167,7 +167,7 @@
     "@storybook/addon-onboarding": "^1.0.8",
     "@storybook/blocks": "^7.2.1",
     "@storybook/react": "^7.2.1",
-    "@storybook/react-webpack5": "^7.2.1",
+    "@storybook/react-webpack5": "^8.0.0",
     "@storybook/testing-library": "^0.2.0",
     "@svgr/webpack": "^6.5.1",
     "@testing-library/jest-dom": "^5.16.5",
