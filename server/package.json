@@ -152,7 +152,7 @@
     "sshpk": "^1.17.0",
     "stripe": "^20.1.2",
     "typeorm": "^0.3.24",
-    "undici": "^7.11.0",
+    "undici": "^7.18.2",
     "uuid": "^8.3.2",
     "winston": "^3.13.1",
     "winston-daily-rotate-file": "^4.7.1",
