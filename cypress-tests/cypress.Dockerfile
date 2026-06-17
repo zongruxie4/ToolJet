@@ -62,7 +62,7 @@ RUN npm install -g @nestjs/cli
 RUN npm install -g copyfiles
 RUN npm --prefix server run build
 
-FROM node:22.15.1-bullseye
+FROM node:22.21.1-bullseye
 
 RUN apt-get update -yq \
     && apt-get install curl wget gnupg zip -yq \
