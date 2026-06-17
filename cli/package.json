@@ -16,7 +16,7 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
-    "@oclif/test": "^2",
+    "@oclif/test": "^3.0.0",
     "@types/chai": "^4",
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.9.4",
